@@ -1,202 +1,289 @@
-<!-- ========================================================= -->
-<!--                    MD FAHIM IMTIAZ KHAN                   -->
-<!--                PREMIUM GITHUB PROFILE                     -->
-<!-- ========================================================= -->
+<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:06B6D4&height=240&section=header&text=Md%20Fahim%20Imtiaz%20Khan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20RESEARCH&descAlignY=58&descSize=15"
+    width="100%"
+    alt="Md Fahim Imtiaz Khan — Software Engineering, Applied AI, and Research"
+  />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0C2461,60:155E9C,100:22D3EE&height=260§ion=header&text=MD%20FAHIM%20IMTIAZ%20KHAN&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20RESEARCHER%20%7C%20SCRIMBASSADOR&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1100&color=22D3EE&center=true&vCenter=true&width=850&height=60&lines=Building+thoughtful+software.;Exploring+privacy-preserving+AI.;Bringing+intelligence+closer+to+the+device.;Turning+research+ideas+into+working+products."
+      width="100%"
+      alt="Building thoughtful software. Exploring privacy-preserving AI. Bringing intelligence closer to the device. Turning research ideas into working products."
+    />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://mdfahimimtiazkhan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=safari&logoColor=22D3EE" alt="Portfolio" />
+  </a>
+  <a href="mailto:contact-me@mdfahimimtiazkhan.dev">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=A5B4FC" alt="Email" />
+  </a>
+  <a href="https://orcid.org/0009-0009-5247-6821">
+    <img src="https://img.shields.io/badge/ORCID-0F172A?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID" />
+  </a>
+  <a href="https://github.com/fahimimtiaz12?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Code-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore my repositories" />
+  </a>
+</p>
 
-<img src="https://github.com/fahimimtiaz12.png" width="150" style="border-radius:50%; box-shadow: 0 0 20px rgba(34,211,238,0.5);" alt="Fahim's GitHub avatar"/>
+<p align="center">
+  <strong>Privacy-conscious AI. Useful applications. Thoughtful engineering.</strong>
+</p>
 
-<br/><br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8¢er=true&vCenter=true&repeat=true&width=750&height=55&lines=Hey%2C+I'm+Fahim+Imtiaz+Khan+%F0%9F%91%8B;Building+Intelligent+Software+%F0%9F%A4%96;Exploring+Privacy-Preserving+AI+%F0%9F%A7%A0;Learning+%7C+Building+%7C+Sharing+with+Scrimba+%F0%9F%9A%80;Turning+Ideas+Into+Real-World+Solutions+%E2%9C%A8" alt="Animated introduction"/>
+<!-- ═══════════════════ INTRODUCTION ═══════════════════ -->
 
-<br/>
+## ◈ A little about me
 
-### 💻 Software Engineering Undergraduate  ·  🔬 Applied AI Researcher  ·  🌟 Scrimbassador
+I'm **Fahim**, a Software Engineering undergraduate at **Chengdu Neusoft University, China**, exploring the intersection of practical software development and applied AI.
 
-<br/>
+My work spans Android applications, backend systems, AI workspaces, and research into **privacy-preserving, on-device language models**. I enjoy building tools that make learning, collaboration, and everyday workflows more useful.
 
-<a href="https://mdfahimimtiazkhan.dev">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/md-fahim-imtiaz-khan-7558782ab/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+- 🎓 **B.S. Software Engineering** · 2024–2028, expected · **GPA: 4.38/5.00**
+- 🔬 Research interests: **on-device LLMs, privacy-preserving personalization, computer vision, and applied ML**
+- 🛠️ Project experience across **Android, full-stack web development, RAG, and cloud-backed applications**
+- 🌱 Continuing to explore **model evaluation, feature engineering, and intelligent mobile systems**
+- 🤝 Interested in conversations about **research, educational technology, and useful AI products**
+
+<br>
+
+<!-- ═══════════════════ RESEARCH ═══════════════════ -->
+
+## ◈ Research spotlight
+
+<table>
+<tr>
+<td>
+
+### 🧠 PersonaMQA
+
+**Context-Aware Persona Inference Engine for Privacy-Preserving Cross-Platform Mobile Messaging Automation**
+
+A privacy-first research framework exploring how mobile messaging assistants can generate context-appropriate responses while keeping raw chat content on the device.
+
+**Research directions**
+
+- On-device language-model inference and personalization
+- Entropy-weighted persona extraction
+- Sentiment, urgency, and relationship-aware response generation
+- Context-sensitive mobile messaging automation
+
+**Models explored:** Qwen 2.5-7B · Phi-3 Mini  
+**Publication status:** TechRxiv preprint
+
+<a href="https://doi.org/10.36227/techrxiv.177015933.33204191/v1">
+  <img src="https://img.shields.io/badge/Read_the_Preprint-4338CA?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF" alt="Read the PersonaMQA preprint" />
 </a>
 <a href="https://orcid.org/0009-0009-5247-6821">
-<img src="https://img.shields.io/badge/ORCID-Research-84CC16?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-<a href="https://github.com/fahimimtiaz12">
-<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Research_Identity-0F172A?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="View ORCID profile" />
 </a>
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-<img src="https://komarev.com/ghpvc/?username=fahimimtiaz12&label=PROFILE%20VISITORS&color=0EA5E9&style=for-the-badge" alt="Profile visitors"/>
+<br>
 
-</div>
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+
+## ◈ Selected builds
+
+### 💡 [TubeLight — Multimodal AI Workspace](https://github.com/fahimimtiaz12/TubeLight)
+
+A personal AI workspace combining **multi-model chat, document-grounded question answering, and private content storage**.
+
+- PDF, Markdown, and text document retrieval with embeddings
+- Authentication, vector search, storage, and an AI gateway through InsForge
+- Row-level security with per-user history and document storage
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `InsForge` `PostgreSQL` `RAG`
 
 ---
 
-<!-- ABOUT ME -->
+### 🎓 CNU CampusMate
 
-<h2 align="center">✨ ABOUT ME</h2>
+A **WeChat Mini Program** designed to improve campus information access and student services.
 
-<div align="center">
+- **22 registered pages** with student, teacher, and administrator workflows
+- Schedules, results, bookings, events, and campus navigation
+- Help Center, Lost & Found, and a rule-based campus knowledge assistant
+- Supabase persistence and a local-data fallback for classroom demonstrations
 
-Hello there! 👋 I'm **Md Fahim Imtiaz Khan**, a passionate software engineering student, technology creator, and applied AI researcher. 
+`JavaScript` `WXML` `WXSS` `Supabase` `PostgreSQL` `Amap`
 
-I love transforming complex concepts into clean, scalable applications and exploring the cutting edge of intelligent, privacy-first software systems.
+---
 
-</div>
+### ⏱️ PacePal
+
+An Android study companion bringing together **personal planning, focus sessions, progress tracking, and collaborative learning**.
+
+- Homework management, Pomodoro sessions, streaks, and progress charts
+- Study groups, shared notes, real-time chat, and synchronized focus sessions
+- Group audio/video meetings and server-side call notifications
+- PDF certificates with themes and QR verification
+
+`Kotlin` `Java` `Jetpack Compose` `Room` `Firebase` `Vercel` `JaaS`
+
+<details>
+<summary><strong>Looking ahead: PacePal 2.0</strong></summary>
+
+<br>
+
+Planned enhancements include AI homework assistance, document summaries, quiz generation, smart planning, and additional group-study support.
+
+These features belong to the roadmap.
+
+</details>
+
+---
+
+### 🧩 DevPlay
+
+An Android learning platform built around a simple journey:
+
+**Learn → Practice → Run → Review → Improve**
+
+- Java lessons, video resources, and lesson-linked coding challenges
+- Editor/compiler interface with program input and expected-output checks
+- AI-assisted tutoring, debugging help, notes, and quizzes
+- Progress tracking, certificates, and administrator content management
+
+`Java` `Android` `Firebase` `Cloud Firestore` `AI-assisted Learning`
+
+<br>
+
+<details>
+<summary><strong>＋ More projects and experiments</strong></summary>
+
+<br>
+
+| Project / area | Focus |
+| :--- | :--- |
+| **Tabular ML experiments** | Imbalanced classification, cross-validation, feature engineering, and blended predictions using LightGBM and CatBoost |
+| **Music Player** | Android music-player application |
+| **Central Advert Agency Website** | Responsive agency website with services, portfolio highlights, and inquiry sections |
+| **Supermarket Billing System** | Portfolio-listed concept covering products, inventory, discounts, receipts, and reporting |
+| **Student Management System** | Portfolio-listed concept for student records, grades, courses, and attendance |
+| **Library Management System** | Portfolio-listed concept for books, members, loans, returns, and fines |
+| **Task & Habit Tracker** | Portfolio-listed concept for habits, reminders, streaks, and progress visualization |
+
+</details>
+
+<br>
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+## ◈ My engineering toolkit
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,kotlin,javascript,typescript&theme=dark" alt="Java, Python, C, Kotlin, JavaScript, and TypeScript" />
+</p>
+
+**Web, backend & interfaces**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,vue,tailwind,html,css&theme=dark" alt="Spring, React, Vue, Tailwind CSS, HTML, and CSS" />
+</p>
+
+**Data, cloud & development tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,git,linux,androidstudio,vercel&theme=dark" alt="PostgreSQL, MySQL, Firebase, Supabase, Git, Linux, Android Studio, and Vercel" />
+</p>
+
+| Area | Focus |
+| :--- | :--- |
+| **AI & research** | LLMs · RAG · prompt engineering · computer vision · YOLOv8 · on-device AI |
+| **Applied ML** | LightGBM · CatBoost · feature engineering · model evaluation |
+| **Backend systems** | Spring Boot · Spring MVC · Spring Security · REST APIs · authentication |
+| **Android** | Jetpack Compose · Material 3 · Room · WorkManager · OkHttp |
+| **Cloud collaboration** | Firebase Authentication · Firestore · Storage · FCM · serverless APIs |
+| **Foundations** | OOP · data structures & algorithms · design patterns · technical writing |
+
+<br>
+
+<!-- ═══════════════════ COMMUNITY ═══════════════════ -->
+
+## ◈ Beyond the code
+
+I also value teaching, student communities, and the work that helps others learn.
+
+- **Scrimbambassador** at Scrimba
+- **Campus Ambassador, Season 2** — ICT Olympiad Bangladesh
+- Former **teacher / learner mentor** at Code With Redoy
+- **Cadet Lance Corporal** — Bangladesh National Cadet Corps, Air Wing
+- Former student volunteer with the **Blood Bank at BAF Shaheen College**
+- Participant in **GCI World 2026** data science learning activities
+
+<br>
+
+<!-- ═══════════════════ CREDENTIALS ═══════════════════ -->
+
+## ◈ Learning & credentials
+
+<details>
+<summary><strong>Explore selected credentials</strong></summary>
+
+<br>
+
+| Provider | Selected credentials |
+| :--- | :--- |
+| **IBM SkillsBuild** | Make Agentic AI Work for You · Web Development Fundamentals |
+| **DataCamp** | Python Data Associate · AI Engineer for Developers Associate |
+| **Code with Mosh** | Ultimate Java Parts 1–3 · Complete SQL Mastery |
+| **Educative** | Mastering OpenAI Codex for Agentic Coding |
+| **Elsevier Researcher Academy** | Certified Peer Reviewer Course · Going through peer review |
+| **Cisco** | English for IT 1 |
+| **The Open University / OpenLearn** | Artificial intelligence · Computer systems · Systems thinking · Computing and IT |
+| **Amar iSchool** | Research Paper Writing Course |
+| **Wadhwani Foundation** | Employability, communication, productivity, and professional skills |
+| **NonprofitReady** | Fundraising Essentials Certificate Program |
+
+</details>
+
+<br>
+
+<!-- ═══════════════════ CONTACT ═══════════════════ -->
+
+## ◈ Let's connect
+
+I'm interested in exchanging ideas about **privacy-preserving AI, mobile applications, educational tools, and applied research**.
+
+<p>
+  <a href="mailto:contact-me@mdfahimimtiazkhan.dev">
+    <img src="https://img.shields.io/badge/Start_a_Conversation-4338CA?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send me an email" />
+  </a>
+  <a href="https://mdfahimimtiazkhan.dev">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0891B2?style=for-the-badge&logo=safari&logoColor=FFFFFF" alt="Visit my portfolio" />
+  </a>
+</p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimimtiaz12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimimtiaz12&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" width="48%"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1800&color=A5B4FC&center=true&vCenter=true&width=700&lines=Curiosity+drives+the+research.;Care+shapes+the+software.;Always+learning.+Always+building."
+    width="100%"
+    alt="Curiosity drives the research. Care shapes the software. Always learning. Always building."
+  />
 </p>
 
-> *"Dream big, think deeply, build intelligently, and never stop learning."*
+<p align="center">
+  <sub>Md Fahim Imtiaz Khan · Software Engineering & Applied AI</sub>
+</p>
 
----
-
-<!-- TECH STACK -->
-
-<h2 align="center">⚡ TECHNICAL EXPERTISE</h2>
-
-<div align="center">
-
-### 👨‍💻 Languages & Core
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" alt="Languages"/>
-
-### 🌐 Frontend & Web
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,vite&theme=dark" alt="Frontend"/>
-
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,supabase&theme=dark" alt="Backend"/>
-
-### 🤖 Artificial Intelligence & Machine Learning
-<img src="https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-0E7490?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
-
-### 🛠️ Developer Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio&theme=dark" alt="Tools"/>
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
-
-<div align="center">
-
-*A showcase of applications and systems I've engineered.*
-
-</div>
-
-| Project | Description | Tech Stack | Action |
-|:---|:---|:---|:---|
-| **🚀 TubeLight** | A calm, personal multimodal AI workspace for chatting with frontier models and querying documents. | TypeScript • React • PostgreSQL • AI Gateway | [View Repo](https://github.com/fahimimtiaz12/TubeLight) |
-| **🏫 CNU CampusMate** | Smart university campus companion and service assistant mini-program. | JavaScript • Supabase • WeChat Mini Program | [Explore](https://github.com/fahimimtiaz12) |
-| **📊 Credit Classification** | Tabular machine learning experimentation workflow for predictive modeling. | Python • LightGBM • CatBoost • Pandas | [Explore](https://github.com/fahimimtiaz12) |
-| **🛒 Supermarket Billing** | Desktop point-of-sale and comprehensive inventory management application. | Java • JavaFX • MySQL • JDBC | [View Repo](https://github.com/fahimimtiaz12/Supermarket-Billing-System) |
-
----
-
-<!-- RESEARCH -->
-
-<h2 align="center">🔬 RESEARCH & INNOVATION</h2>
-
-<div align="center">
-
-### 🧠 PersonaMQA: Context-Aware Persona Inference Engine
-*Privacy-Preserving Cross-Platform Mobile Messaging Automation*
-
-An independent research initiative investigating privacy-first frameworks for local conversational context modeling, entropy-weighted persona extraction, and response generation using on-device models (such as Qwen and Phi-3).
-
-[![Read Preprint](https://img.shields.io/badge/READ_RESEARCH-TechRxiv%20Preprint-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://doi.org/10.36227/techrxiv.177015933.33204191/v1)
-
-</div>
-
----
-
-<!-- COMMUNITY & SCRIMBA -->
-
-<h2 align="center">🌟 COMMUNITY & SCRIMBASSADOR JOURNEY</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SCRIMBASSADOR-Community%20Advocate-7C3AED?style=for-the-badge&logo=scrimba&logoColor=white"/>
-
-<br><br>
-
-As an active member of the **Scrimbassador community**, I love collaborating with developers worldwide, sharing educational resources, and helping foster an engaging environment for aspiring programmers.
-
-</div>
-
----
-
-<!-- GITHUB ANALYTICS -->
-
-<h2 align="center">📊 ACTIVITY STREAK</h2>
-
-<div align="center">
-
-<a href="https://github.com/fahimimtiaz12">
-<img src="https://streak-stats.demolab.com?user=fahimimtiaz12&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak"/>
-</a>
-
-</div>
-
----
-
-<!-- SOCIAL LINKS -->
-
-<h2 align="center">🌍 CONNECT WITH ME</h2>
-
-<div align="center">
-
-<a href="https://mdfahimimtiazkhan.dev">
-<img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/md-fahim-imtiaz-khan-7558782ab/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/fahimimtiaz12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://orcid.org/0009-0009-5247-6821">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-<a href="https://scholar.google.com/citations?user=NCPTWpUAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/917401765144563742">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="mailto:contact-me@mdfahimimtiazkhan.dev">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=22D3EE¢er=true&vCenter=true&width=650&height=45&lines=Thanks+for+visiting+my+GitHub!+%F0%9F%92%99;Let's+build+something+extraordinary!+%F0%9F%9A%80;See+you+in+the+next+commit!+%E2%9C%A8" alt="Closing message"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:155E9C,75:0C2461,100:020617&height=140§ion=footer&animation=fadeIn" width="100%"/>
-
-</div>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4338CA,100:0F172A&height=120&section=footer&animation=twinkling"
+  width="100%"
+  alt="Decorative gradient footer"
+/>
