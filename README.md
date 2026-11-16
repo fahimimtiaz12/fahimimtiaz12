@@ -348,8 +348,6 @@ The list below follows the certificate and recognition register in my CV. Creden
 <p align="center"><strong>Social profiles</strong></p>
 
 <p align="center">
-  <a href="https://www.instagram.com/exquisite_demon_3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/fahim.imtiaz.sami.2025"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=FFFFFF" alt="Facebook" /></a>
   <a href="https://discord.com/users/917401765144563742"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
 </p>
 
@@ -361,11 +359,6 @@ The list below follows the certificate and recognition register in my CV. Creden
 
 <p align="center">
   <a href="mailto:contact-me@mdfahimimtiazkhan.dev"><img src="https://img.shields.io/badge/Email-contact--me%40mdfahimimtiazkhan.dev-0B7285?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email contact-me@mdfahimimtiazkhan.dev" /></a>
-  <a href="tel:+8613183887731"><img src="https://img.shields.io/badge/Phone-%2B86%20131%208388%207731-16A34A?style=for-the-badge&logo=phone&logoColor=FFFFFF" alt="Phone +86 131 8388 7731" /></a>
-</p>
-
-<p align="center">
-  <sub>Scrimba profile name is listed in my CV; a direct profile URL was not included in the source materials.</sub>
 </p>
 
 <p align="center">
