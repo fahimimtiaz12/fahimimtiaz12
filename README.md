@@ -237,22 +237,73 @@ Android Music Player and the Central Advert Agency Website, alongside portfolio-
 - **GCI World 2026 participant** — data science learning activities
 
 <details>
-<summary><b>🎖️ Selected learning & credentials</b></summary>
+<summary><b>🎖️ View all 29 certificates, credentials & recognitions</b></summary>
 
 <br>
 
-| Provider | Credentials |
-| :--- | :--- |
-| **IBM SkillsBuild** | Make Agentic AI Work for You · Web Development Fundamentals |
-| **DataCamp** | Python Data Associate · AI Engineer for Developers Associate |
-| **Code with Mosh** | Ultimate Java Parts 1–3 · Complete SQL Mastery |
-| **Educative** | Mastering OpenAI Codex for Agentic Coding |
-| **Elsevier Researcher Academy** | Certified Peer Reviewer Course · Going through peer review |
-| **Cisco** | English for IT 1 |
-| **The Open University / OpenLearn** | AI · Computer systems · Systems thinking · Computing and IT |
-| **Amar iSchool** | Research Paper Writing Course |
-| **Wadhwani Foundation** | Employability · Communication · Productivity · Professional skills |
-| **NonprofitReady** | Fundraising Essentials Certificate Program |
+The list below follows the certificate and recognition register in my CV. Credential IDs and verification notes are reproduced as recorded; I have not invented verification URLs where the source does not provide one.
+
+#### <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM logo" /> IBM SkillsBuild · 2
+
+- **Make Agentic AI Work for You** — Credly reference: `Qq4pAG90`
+- **Web Development Fundamentals** — Credly badge ID: `90793177-7989-40be-ab13-16ee10d28a27`
+
+#### <img src="https://img.shields.io/badge/OpenLearn-EA5A0F?style=flat-square&logo=theopenuniversity&logoColor=white" alt="The Open University logo" /> The Open University / OpenLearn · 4
+
+- **An introduction to computers and computer systems** — Course page
+- **An introduction to artificial intelligence** — Course page
+- **Systems thinking and practice**
+- **Introducing computing and IT**
+
+#### <img src="https://img.shields.io/badge/Code%20with%20Mosh-111827?style=flat-square&logo=codewithmosh&logoColor=white" alt="Code with Mosh logo" /> Code with Mosh · 4
+
+- **Complete SQL Mastery** — `cert_zh3z6hkm`
+- **Ultimate Java Part 3: Advanced Topics** — `cert_gjk5jp4d`
+- **Ultimate Java Part 2: Object-oriented Programming** — `cert_fj9l00sp*`
+- **Ultimate Java Part 1: Fundamentals** — `cert_p3sxb2c2`
+
+#### <img src="https://img.shields.io/badge/Wadhwani%20Foundation-245B4A?style=flat-square&logo=googleclassroom&logoColor=white" alt="Wadhwani Foundation" /> Wadhwani Foundation · 9
+
+- **Problem Solving & Innovation** — `6abb52c1b14b60e6f0ff4d46`
+- **Professionalism** — `6abb50c6fa09ff77a7eee9ac`
+- **Impactful Writing Skills** — `6ab9fe92fa09ff77a7ec0718`
+- **Customer Centricity** — `6ab9eae7739c0c43a7b3024d`
+- **Work Productivity Tools (US English)** — `6ab9e97728d7cd24ec723f9d`
+- **Interpersonal Skills** — `6ab9e69db14b60e6f0fc02ca`
+- **Online Communication & Data Security** — `6ab9df6d53737975de3cb6f5`
+- **Effective Speaking and Listening Skills (US English)** — `6ab9df5bfa09ff77a7eb82e4`
+- **21st Century Employability Skilling Program – Advanced at the Basic Level** — `65a165418c30de8667c3e236`
+
+#### <img src="https://img.shields.io/badge/Elsevier-FF6C00?style=flat-square&logo=elsevier&logoColor=white" alt="Elsevier logo" /> Elsevier Research Academy / Information Sciences · 3
+
+- **Going through peer review** — Certificate copy referenced in the CV (Dropbox)
+- **Certified Peer Reviewer Course** — Certificate copy referenced in the CV (Dropbox)
+- **Reviewer Recognition — Information Sciences** — Certificate copy referenced in the CV (Dropbox)
+
+#### <img src="https://img.shields.io/badge/ICT%20Olympiad%20Bangladesh-146C94?style=flat-square&logo=googleclassroom&logoColor=white" alt="ICT Olympiad Bangladesh" /> ICT Olympiad Bangladesh · 1
+
+- **Campus Ambassador — Season 2** — Certificate number: `2026305872`
+
+#### <img src="https://img.shields.io/badge/Amar%20iSchool-6D28D9?style=flat-square&logo=bookstack&logoColor=white" alt="Amar iSchool" /> Amar iSchool · 1
+
+- **Research Paper Writing Course** — `AiS2138`
+
+#### <img src="https://img.shields.io/badge/Educative-0B7285?style=flat-square&logo=educative&logoColor=white" alt="Educative logo" /> Educative · 1
+
+- **Mastering OpenAI Codex for Agentic Coding** — `ENW21VKS97`
+
+#### <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=111827" alt="DataCamp logo" /> DataCamp · 2
+
+- **Python Data Associate** — `PDA0019646631858`
+- **AI Engineer for Developers Associate** — `AIEDA0014456713569`
+
+#### <img src="https://img.shields.io/badge/NonprofitReady-475569?style=flat-square&logo=handshake&logoColor=white" alt="NonprofitReady" /> NonprofitReady · 1
+
+- **Fundraising Essentials Certificate Program**
+
+#### <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco logo" /> Cisco · 1
+
+- **English for IT 1** — Credly badge (ID not listed in the CV)
 
 </details>
 
@@ -262,9 +313,9 @@ Android Music Player and the Central Advert Agency Website, alongside portfolio-
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahimimtiaz12/fahimimtiaz12/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahimimtiaz12/fahimimtiaz12/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/fahimimtiaz12/fahimimtiaz12/output/github-snake.svg" width="100%" alt="Animated snake moving through my GitHub contribution calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahimimtiaz12/fahimimtiaz12/output/github-snake-dark.svg?v=20261116-pink" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahimimtiaz12/fahimimtiaz12/output/github-snake.svg?v=20261116-indigo" />
+    <img src="https://raw.githubusercontent.com/fahimimtiaz12/fahimimtiaz12/output/github-snake.svg?v=20261116-indigo" width="100%" alt="Animated snake moving through my GitHub contribution calendar" />
   </picture>
 </p>
 
@@ -272,18 +323,49 @@ Android Music Player and the Central Advert Agency Website, alongside portfolio-
 
 ---
 
+## ✦ Find me around the web
+
 <p align="center">
-  <samp>HAVE AN IDEA AT THE INTERSECTION OF SOFTWARE & AI?</samp>
+  <samp>SOFTWARE · APPLIED AI · RESEARCH · OPEN SOURCE</samp>
 </p>
 
-<h3 align="center">Let's build something worth using.</h3>
+<p align="center"><strong>Professional & research profiles</strong></p>
 
 <p align="center">
-  <a href="mailto:contact-me@mdfahimimtiazkhan.dev">Email me</a>
-  &nbsp; ✦ &nbsp;
-  <a href="https://mdfahimimtiazkhan.dev">Explore my portfolio</a>
-  &nbsp; ✦ &nbsp;
-  <a href="https://orcid.org/0009-0009-5247-6821">Research profile</a>
+  <a href="https://mdfahimimtiazkhan.dev"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Portfolio" /></a>
+  <a href="https://github.com/fahimimtiaz12"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/md-fahim-imtiaz-khan-7558782ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=NCPTWpUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0009-5247-6821"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=FFFFFF" alt="ORCID" /></a>
+</p>
+
+<p align="center">
+  <a href="https://doi.org/10.36227/techrxiv.177015933.33204191/v1"><img src="https://img.shields.io/badge/TechRxiv-Research%20Preprint-0B7285?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF" alt="TechRxiv preprint" /></a>
+  <a href="https://chengduneusoft.academia.edu/MdFahimImtiazKhan"><img src="https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=FFFFFF" alt="Academia.edu" /></a>
+  <a href="https://www.authorea.com/users/1022823-md-fahim-imtiaz-khan"><img src="https://img.shields.io/badge/Authorea-5B4B8A?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF" alt="Authorea" /></a>
+</p>
+
+<p align="center"><strong>Social profiles</strong></p>
+
+<p align="center">
+  <a href="https://www.instagram.com/exquisite_demon_3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/fahim.imtiaz.sami.2025"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=FFFFFF" alt="Facebook" /></a>
+  <a href="https://discord.com/users/917401765144563742"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrimba-Profile%3A%20MD%20FAHIM%20IMTIAZ%20KHAN-2E2D2B?style=for-the-badge&logo=scrimba&logoColor=FFFFFF" alt="Scrimba profile: MD FAHIM IMTIAZ KHAN" />
+</p>
+
+<p align="center"><strong>Direct contact</strong></p>
+
+<p align="center">
+  <a href="mailto:contact-me@mdfahimimtiazkhan.dev"><img src="https://img.shields.io/badge/Email-contact--me%40mdfahimimtiazkhan.dev-0B7285?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email contact-me@mdfahimimtiazkhan.dev" /></a>
+  <a href="tel:+8613183887731"><img src="https://img.shields.io/badge/Phone-%2B86%20131%20838%2088%20731-16A34A?style=for-the-badge&logo=phone&logoColor=FFFFFF" alt="Phone +86 131 8388 7731" /></a>
+</p>
+
+<p align="center">
+  <sub>Scrimba profile name is listed in my CV; a direct profile URL was not included in the source materials.</sub>
 </p>
 
 <p align="center">
