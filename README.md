@@ -40,7 +40,6 @@ My research interests center on **on-device language models, privacy-preserving 
 Chengdu Neusoft University  
 2024–2028 · Expected graduation
 
-**GPA — 4.30 / 5.00**
 
 </td>
 <td width="50%" valign="top">
