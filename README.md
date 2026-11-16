@@ -262,7 +262,7 @@ The list below follows the certificate and recognition register in my CV. Creden
 - **Ultimate Java Part 2: Object-oriented Programming** — `cert_fj9l00sp*`
 - **Ultimate Java Part 1: Fundamentals** — `cert_p3sxb2c2`
 
-#### <img src="https://img.shields.io/badge/Wadhwani%20Foundation-245B4A?style=flat-square&logo=googleclassroom&logoColor=white" alt="Wadhwani Foundation" /> Wadhwani Foundation · 9
+#### <img src="https://img.shields.io/badge/Wadhwani%20Foundation-245B4A?style=flat-square" alt="Wadhwani Foundation" /> Wadhwani Foundation · 9
 
 - **Problem Solving & Innovation** — `6abb52c1b14b60e6f0ff4d46`
 - **Professionalism** — `6abb50c6fa09ff77a7eee9ac`
@@ -274,13 +274,13 @@ The list below follows the certificate and recognition register in my CV. Creden
 - **Effective Speaking and Listening Skills (US English)** — `6ab9df5bfa09ff77a7eb82e4`
 - **21st Century Employability Skilling Program – Advanced at the Basic Level** — `65a165418c30de8667c3e236`
 
-#### <img src="https://img.shields.io/badge/Elsevier-FF6C00?style=flat-square&logo=elsevier&logoColor=white" alt="Elsevier logo" /> Elsevier Research Academy / Information Sciences · 3
+#### <img src="https://img.shields.io/badge/Elsevier-FF6C00?style=flat-square&logo=elsevier&logoColor=white" alt="Elsevier logo" /> Elsevier Researcher Academy / Information Sciences · 3
 
 - **Going through peer review** — Certificate copy referenced in the CV (Dropbox)
 - **Certified Peer Reviewer Course** — Certificate copy referenced in the CV (Dropbox)
 - **Reviewer Recognition — Information Sciences** — Certificate copy referenced in the CV (Dropbox)
 
-#### <img src="https://img.shields.io/badge/ICT%20Olympiad%20Bangladesh-146C94?style=flat-square&logo=googleclassroom&logoColor=white" alt="ICT Olympiad Bangladesh" /> ICT Olympiad Bangladesh · 1
+#### <img src="https://img.shields.io/badge/ICT%20Olympiad%20Bangladesh-146C94?style=flat-square" alt="ICT Olympiad Bangladesh" /> ICT Olympiad Bangladesh · 1
 
 - **Campus Ambassador — Season 2** — Certificate number: `2026305872`
 
@@ -297,7 +297,7 @@ The list below follows the certificate and recognition register in my CV. Creden
 - **Python Data Associate** — `PDA0019646631858`
 - **AI Engineer for Developers Associate** — `AIEDA0014456713569`
 
-#### <img src="https://img.shields.io/badge/NonprofitReady-475569?style=flat-square&logo=handshake&logoColor=white" alt="NonprofitReady" /> NonprofitReady · 1
+#### <img src="https://img.shields.io/badge/NonprofitReady-475569?style=flat-square" alt="NonprofitReady" /> NonprofitReady · 1
 
 - **Fundraising Essentials Certificate Program**
 
@@ -361,7 +361,7 @@ The list below follows the certificate and recognition register in my CV. Creden
 
 <p align="center">
   <a href="mailto:contact-me@mdfahimimtiazkhan.dev"><img src="https://img.shields.io/badge/Email-contact--me%40mdfahimimtiazkhan.dev-0B7285?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email contact-me@mdfahimimtiazkhan.dev" /></a>
-  <a href="tel:+8613183887731"><img src="https://img.shields.io/badge/Phone-%2B86%20131%20838%2088%20731-16A34A?style=for-the-badge&logo=phone&logoColor=FFFFFF" alt="Phone +86 131 8388 7731" /></a>
+  <a href="tel:+8613183887731"><img src="https://img.shields.io/badge/Phone-%2B86%20131%208388%207731-16A34A?style=for-the-badge&logo=phone&logoColor=FFFFFF" alt="Phone +86 131 8388 7731" /></a>
 </p>
 
 <p align="center">
